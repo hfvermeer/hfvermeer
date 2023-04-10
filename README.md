@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @hfvermeer
-- 👀 I’m interested in ... Domotics (Home Assistant, ESPhome, Zigbee development through Nordic) and RC (iNav, ardupilot, storm32, ELRS, OpenHD)
-- 🌱 I’m currently learning ... for my bachelor Embedded Systems Engineering at HAN University of Applied Sciences. Next up C++, IoT, Operating Systems. But also my own projects.
+- 👋 Hi, I’m Herre Vermeer @hfvermeer
+- 👀 I’m interested in everything to do with microcontrollers, FPGA's and embedded solutions. As a professional I am involved in firmware development, in my free time I am involved in Domotics (Home Assistant, ESPhome, Zigbee development through Nordic), RC (iNav, ardupilot, storm32, ELRS, OpenHD) and vintage computers (i486 and older)
+- 🌱 I’m working as an Embedded Systems Engneer and enrolled as a part time student at HAN University of Applied Sciences. 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 📫 Send me a pm or email at: herre.vermeer@gmail.com 
 
 <!---
-hfvermeer/hfvermeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Nothing here yet
 --->
